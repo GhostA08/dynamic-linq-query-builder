@@ -11,7 +11,7 @@
     <TargetFrameworks>netstandard2.0;net45</TargetFrameworks>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <Version>1.1.1</Version>
     <Authors>Grant Hamm</Authors>
     <Company>Castle Worldwide, Inc</Company>
